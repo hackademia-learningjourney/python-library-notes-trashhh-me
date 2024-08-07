@@ -1,1 +1,1 @@
-Hello, this is my first step towards learning Git.
+Hello, this is my first step towards learning Git. This is fun, I am loving this alot.
